@@ -1,0 +1,35 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" 
+"http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+
+<style>
+body {
+	Background-color: Lavender;
+	width: 800px;
+	margin: auto;
+}
+
+#headers {	
+	font-family: "Spirax", serif;
+	font-size: 30px;
+	text-align: center;
+	padding-left: auto;
+	padding-right: auto;
+	margin-top: 50px;
+	margin-left: 100px;
+	margin-right: 100px;
+}
+</style>
+
+<body>
+	<div id = "headers">
+		<a href="#" class="nav">Home</a>
+		<a href="#" class="nav">About</a>
+		<a href="#" class="nav">Portfolio</a>
+		<a href="#" class="nav">Books</a>
+		<a href="#" class="nav">Contact</a>
+	</div>
+	<br />
+	<br />
+	
